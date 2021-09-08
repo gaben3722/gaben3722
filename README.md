@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Gabe
 
-<!--
-**gaben3722/gaben3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -58,11 +57,11 @@ Here are some ideas to get you started:
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbehringer95&show_icons=true&locale=en&theme-dracula" alt="jbehringer95" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaben3722&show_icons=true&locale=en&theme-dracula" alt="gaben3722" /></p>
 
 
 ---
 
-[medium]: https://justin-caise95.medium.com/
-[linkedin]: https://www.linkedin.com/in/justin-behringer-a1753a1b9/
-[kaggle]: https://www.kaggle.com/justincaise
+[medium]: https://gabenosek.medium.com/
+[linkedin]: https://www.linkedin.com/in/gabe-nosek-31431a174/
+[kaggle]: https://www.kaggle.com/gabenosek
