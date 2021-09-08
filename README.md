@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C and enhancing my knowlage in deep learning.
 - 👯 I’m looking to collaborate on ML and deep learning projects.
 - 🤔 I’m looking for help with with AWS.
-- 💬 Ask me about Ask market research and how data can be used to influence your decisions.
+- 💬 Ask me about market research and how data can be used to influence your decisions.
 - 😄 My primary goal is to start my career as a Machine Learning Engineer at a company
 
 
