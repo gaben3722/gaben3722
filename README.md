@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML and deep learning projects.
 - 🤔 I’m looking for help with with AWS.
 - 💬 Ask me about market research and how data can be used to influence your decisions.
-- 😄 My primary goal is to start my career as a Machine Learning Engineer.
 
 
 <br />
