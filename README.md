@@ -2,7 +2,7 @@
 
 
 
-Here's some bullet points about me:
+Here's some things about me:
 
 - 🔭 Just finished an internship with Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
 - 📝 I write articles on [https://gabenosek.medium.com/](https://gabenosek.medium.com/)
