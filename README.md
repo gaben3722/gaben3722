@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning C and enhancing my knowlage in deep learning.
+- 🔭 Just finished an internship with Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
+- 📝 I write articles on [https://gabenosek.medium.com/](https://gabenosek.medium.com/)
 - 👯 I’m looking to collaborate on ML and deep learning projects.
 - :brain: I consider myself to be a lifelong learner
 - 💬 Ask me about market research and how data can be used to influence your decisions.
-- 📝 I write articles on [https://gabenosek.medium.com/](https://gabenosek.medium.com/)
 - 📫 How to reach me **gnosek123@hotmail.com**
 
 <br />
